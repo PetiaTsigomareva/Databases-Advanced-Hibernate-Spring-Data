@@ -1,0 +1,10 @@
+LoginUser|ivan@ivan.com|Ivan12
+
+
+
+EditGame|5b42c4ea-11d4-438e-b4be-528be85adf95|price=212.00|size=51.00
+
+AddGame|Overwatchaaab|100.00|15.5|FqnKB22pOC0|Overwatch is a team-based multiplayer online first-person shooter video game developed and published by Blizzard Entertainment.
+
+
+AddGame|Overwatchqqa|100.00|15.5|FqnKB22pOC0|https://us.battle.net/forums/static/images/social-thumbs/overwatch.png|Overwatch is a team-based multiplayer online first-person shooter video game developed and published by Blizzard Entertainment.|24-05-2016
